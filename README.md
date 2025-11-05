@@ -3,6 +3,8 @@
 This project applies data analytics, feature engineering, and statistical visualization techniques to real-world IoT telemetry data and simulated statistical experiments.
 It demonstrates how data preprocessing and visualization help uncover insights from both environmental sensor readings and probabilistic models.
 
+Kaggle dataset link: https://bit.ly/environmental-sensor-data
+
 🌱 Project Summary
 
 The project is divided into two main parts:
